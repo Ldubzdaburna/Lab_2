@@ -58,6 +58,3 @@ Make sure you have the Doctest framework set up correctly in your environment to
 - C++11 or later
 - Doctest testing framework for unit tests
 
-## License
-
-No specific license is provided in this README. Please refer to additional project documentation if available for licensing information.
